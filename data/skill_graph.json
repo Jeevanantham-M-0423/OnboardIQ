@@ -1,0 +1,144 @@
+{
+  "AWS": [
+    "Cloud Fundamentals",
+    "Docker",
+    "CI/CD"
+  ],
+  "Airflow": [
+    "Python",
+    "SQL"
+  ],
+  "Azure": [
+    "Cloud Fundamentals",
+    "Docker",
+    "CI/CD"
+  ],
+  "CI/CD": [
+    "Git"
+  ],
+  "Cloud Fundamentals": [
+    "Networking",
+    "Linux Basics"
+  ],
+  "Containers": [
+    "Linux Basics"
+  ],
+  "Css": [],
+  "Data Analysis": [
+    "Python",
+    "SQL"
+  ],
+  "Databases Basics": [],
+  "Deep Learning": [
+    "Machine Learning",
+    "Linear Algebra"
+  ],
+  "DevSecOps": [
+    "CI/CD",
+    "Kubernetes"
+  ],
+  "Django": [
+    "Python",
+    "SQL"
+  ],
+  "Docker": [
+    "Containers",
+    "Linux Basics",
+    "Networking"
+  ],
+  "Express.js": [
+    "Node.js",
+    "REST API"
+  ],
+  "Fastapi": [
+    "Python",
+    "REST API"
+  ],
+  "Flask": [
+    "Python",
+    "REST API"
+  ],
+  "GCP": [
+    "Cloud Fundamentals",
+    "Docker",
+    "CI/CD"
+  ],
+  "Git": [],
+  "Graphql": [
+    "Javascript",
+    "REST API"
+  ],
+  "Helm": [
+    "Kubernetes"
+  ],
+  "Html": [],
+  "Http Basics": [],
+  "Javascript": [],
+  "Kubernetes": [
+    "Docker",
+    "Networking",
+    "Linux Basics"
+  ],
+  "Linear Algebra": [],
+  "Linux Basics": [],
+  "MLOps": [
+    "Machine Learning",
+    "Docker",
+    "CI/CD"
+  ],
+  "Machine Learning": [
+    "Python",
+    "Data Analysis",
+    "Statistics"
+  ],
+  "MongoDB": [
+    "Nosql",
+    "Node.js"
+  ],
+  "NLP": [
+    "Python",
+    "Machine Learning"
+  ],
+  "Networking": [
+    "Http Basics"
+  ],
+  "Next.js": [
+    "React",
+    "Node.js"
+  ],
+  "Node.js": [
+    "Javascript"
+  ],
+  "Nosql": [
+    "Databases Basics"
+  ],
+  "Pandas": [
+    "Python",
+    "Data Analysis"
+  ],
+  "Python": [],
+  "REST API": [
+    "Http Basics"
+  ],
+  "React": [
+    "Javascript",
+    "Html",
+    "Css"
+  ],
+  "SQL": [
+    "Databases Basics"
+  ],
+  "Spark": [
+    "Python",
+    "SQL",
+    "Data Analysis"
+  ],
+  "Statistics": [],
+  "Terraform": [
+    "Linux Basics",
+    "Cloud Fundamentals"
+  ],
+  "Typescript": [
+    "Javascript"
+  ]
+}

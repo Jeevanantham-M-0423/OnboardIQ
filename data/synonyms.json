@@ -1,0 +1,244 @@
+{
+  "a/b testing": [
+    "a/b.testing",
+    "a/btesting"
+  ],
+  "apache spark": [
+    "apache.spark",
+    "apachespark"
+  ],
+  "argo cd": [
+    "argo.cd",
+    "argocd"
+  ],
+  "attention to detail": [
+    "attention.to.detail",
+    "attentiontodetail"
+  ],
+  "aws": [
+    "amazon web services"
+  ],
+  "backlog grooming": [
+    "backlog.grooming",
+    "backloggrooming"
+  ],
+  "bash scripting": [
+    "bash.scripting",
+    "bashscripting"
+  ],
+  "ci/cd": [
+    "cicd",
+    "continuous deployment",
+    "continuous integration"
+  ],
+  "computer vision": [
+    "computer.vision",
+    "computervision"
+  ],
+  "conflict resolution": [
+    "conflict.resolution",
+    "conflictresolution"
+  ],
+  "critical thinking": [
+    "critical.thinking",
+    "criticalthinking"
+  ],
+  "customer focus": [
+    "customer.focus",
+    "customerfocus"
+  ],
+  "data analysis": [
+    "data.analysis",
+    "dataanalysis"
+  ],
+  "data mining": [
+    "data.mining",
+    "datamining"
+  ],
+  "data modeling": [
+    "data.modeling",
+    "datamodeling"
+  ],
+  "data visualization": [
+    "data.visualization",
+    "datavisualization"
+  ],
+  "data warehousing": [
+    "data.warehousing",
+    "datawarehousing"
+  ],
+  "database design": [
+    "database.design",
+    "databasedesign"
+  ],
+  "decision making": [
+    "decision.making",
+    "decisionmaking"
+  ],
+  "deep learning": [
+    "deep.learning",
+    "deeplearning"
+  ],
+  "elk stack": [
+    "elk.stack",
+    "elkstack"
+  ],
+  "emotional intelligence": [
+    "emotional.intelligence",
+    "emotionalintelligence"
+  ],
+  "feature engineering": [
+    "feature.engineering",
+    "featureengineering"
+  ],
+  "github actions": [
+    "github.actions",
+    "githubactions"
+  ],
+  "gitlab ci": [
+    "gitlab.ci",
+    "gitlabci"
+  ],
+  "hashicorp vault": [
+    "hashicorp.vault",
+    "hashicorpvault"
+  ],
+  "incident management": [
+    "incident.management",
+    "incidentmanagement"
+  ],
+  "infrastructure as code": [
+    "infrastructure.as.code",
+    "infrastructureascode"
+  ],
+  "javascript": [
+    "js"
+  ],
+  "machine learning": [
+    "machine.learning",
+    "machinelearning"
+  ],
+  "microsoft sql server": [
+    "microsoft.sql.server",
+    "microsoftsqlserver"
+  ],
+  "model deployment": [
+    "model.deployment",
+    "modeldeployment"
+  ],
+  "natural language processing": [
+    "natural.language.processing",
+    "naturallanguageprocessing"
+  ],
+  "nlp": [
+    "natural language processing"
+  ],
+  "node.js": [
+    "node js",
+    "nodejs"
+  ],
+  "oauth 2.0": [
+    "oauth.2.0",
+    "oauth2.0"
+  ],
+  "objective c": [
+    "objective.c",
+    "objectivec"
+  ],
+  "oracle database": [
+    "oracle.database",
+    "oracledatabase"
+  ],
+  "power bi": [
+    "microsoft power bi",
+    "power.bi",
+    "powerbi"
+  ],
+  "powershell scripting": [
+    "powershell.scripting",
+    "powershellscripting"
+  ],
+  "presentation skills": [
+    "presentation.skills",
+    "presentationskills"
+  ],
+  "problem solving": [
+    "problem.solving",
+    "problemsolving"
+  ],
+  "project management": [
+    "project.management",
+    "projectmanagement"
+  ],
+  "public speaking": [
+    "public.speaking",
+    "publicspeaking"
+  ],
+  "responsive design": [
+    "responsive.design",
+    "responsivedesign"
+  ],
+  "rest api": [
+    "rest services",
+    "rest.api",
+    "restapi",
+    "restful api",
+    "restful services"
+  ],
+  "risk management": [
+    "risk.management",
+    "riskmanagement"
+  ],
+  "ruby on rails": [
+    "ruby.on.rails",
+    "rubyonrails"
+  ],
+  "scikit learn": [
+    "scikit.learn",
+    "scikitlearn"
+  ],
+  "server side rendering": [
+    "server.side.rendering",
+    "serversiderendering"
+  ],
+  "spring boot": [
+    "spring.boot",
+    "springboot"
+  ],
+  "sprint planning": [
+    "sprint.planning",
+    "sprintplanning"
+  ],
+  "stakeholder management": [
+    "stakeholder.management",
+    "stakeholdermanagement"
+  ],
+  "static site generation": [
+    "static.site.generation",
+    "staticsitegeneration"
+  ],
+  "tailwind css": [
+    "tailwind.css",
+    "tailwindcss"
+  ],
+  "technical writing": [
+    "technical.writing",
+    "technicalwriting"
+  ],
+  "time management": [
+    "time.management",
+    "timemanagement"
+  ],
+  "time series analysis": [
+    "time.series.analysis",
+    "timeseriesanalysis"
+  ],
+  "travis ci": [
+    "travis.ci",
+    "travisci"
+  ],
+  "web accessibility": [
+    "web.accessibility",
+    "webaccessibility"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Linux Basics": {
+    "video": "https://www.youtube.com/watch?v=sWbUDq4S6Y8",
+    "article": "https://linuxjourney.com/",
+    "course": "https://www.edx.org/learn/linux"
+  },
+  "Containers": {
+    "video": "https://www.youtube.com/watch?v=0qotVMX-J5s",
+    "article": "https://www.docker.com/resources/what-container/",
+    "course": "https://www.coursera.org/learn/docker-kubernetes"
+  },
+  "Docker": {
+    "video": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+    "article": "https://docs.docker.com/get-started/",
+    "course": "https://www.udemy.com/course/docker-mastery/"
+  },
+  "Kubernetes": {
+    "video": "https://www.youtube.com/watch?v=X48VuDVv0do",
+    "article": "https://kubernetes.io/docs/concepts/overview/",
+    "course": "https://www.coursera.org/specializations/kubernetes"
+  },
+  "Python": {
+    "video": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+    "article": "https://docs.python.org/3/tutorial/",
+    "course": "https://www.coursera.org/specializations/python"
+  },
+  "REST APIs": {
+    "video": "https://www.youtube.com/watch?v=-MTSQjw5DrM",
+    "article": "https://restfulapi.net/",
+    "course": "https://www.udemy.com/course/rest-api-flask-and-python/"
+  },
+  "FastAPI": {
+    "video": "https://www.youtube.com/watch?v=7t2alSnE2-I",
+    "article": "https://fastapi.tiangolo.com/tutorial/",
+    "course": "https://www.udemy.com/course/fastapi-the-complete-course/"
+  },
+  "JavaScript": {
+    "video": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+    "article": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "course": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+  },
+  "TypeScript": {
+    "video": "https://www.youtube.com/watch?v=30LWjhZzg50",
+    "article": "https://www.typescriptlang.org/docs/",
+    "course": "https://www.udemy.com/course/understanding-typescript/"
+  },
+  "React": {
+    "video": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+    "article": "https://react.dev/learn",
+    "course": "https://scrimba.com/learn/learnreact"
+  },
+  "Node.js": {
+    "video": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+    "article": "https://nodejs.org/en/docs",
+    "course": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/"
+  },
+  "Git": {
+    "video": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+    "article": "https://git-scm.com/doc",
+    "course": "https://www.coursera.org/learn/introduction-git-github"
+  }
+}
