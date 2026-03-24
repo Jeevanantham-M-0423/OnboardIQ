@@ -96,7 +96,7 @@ function SkillDisplay({ response }) {
         </div>
       ) : null}
 
-      <div className="grid gap-3 md:grid-cols-3">
+      <div className="grid gap-3 md:grid-cols-3 print:grid-cols-3 print:gap-4">
         <SkillSection title="Resume Skills" skills={resumeSkills} />
         <SkillSection title="JD Skills" skills={jdSkills} />
         <SkillSection title="Missing Skills" skills={missingSkills} />

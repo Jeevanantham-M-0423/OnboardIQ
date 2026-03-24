@@ -1,4 +1,5 @@
 # OnboardIQ
+
 <<<<<<< HEAD
 
 AI-powered adaptive onboarding engine that generates personalized learning paths based on skill gaps.
@@ -40,7 +41,7 @@ The core recommendation layer uses a graph-based adaptive engine to resolve depe
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn app.main:app --reload
+uvicorn app.main:app --reload (Alternate for Error: python -m uvicorn app.main:app --reload)
 ```
 
 ### Frontend
@@ -108,7 +109,8 @@ This keeps recommendations transparent and easy to understand.
 
 ## Conclusion
 
-OnboardIQ demonstrates how adaptive learning can make onboarding faster, more relevant, and more effective. By identifying real skill gaps and generating targeted pathways, it improves onboarding efficiency for both learners and teams.
-=======
+# OnboardIQ demonstrates how adaptive learning can make onboarding faster, more relevant, and more effective. By identifying real skill gaps and generating targeted pathways, it improves onboarding efficiency for both learners and teams.
+
 Roadmap Generator the role using Resume
->>>>>>> c29e2c63dd7705bff5cc209f9aa8f479f5dbdec6
+
+> > > > > > > c29e2c63dd7705bff5cc209f9aa8f479f5dbdec6

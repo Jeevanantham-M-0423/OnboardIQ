@@ -1,0 +1,53 @@
+@media print {
+  body {
+    background: #fff !important;
+    color: #111 !important;
+  }
+  main, .print-bg {
+    background: #fff !important;
+    color: #111 !important;
+  }
+  .print-card {
+    background: #f0f6fc !important;
+    color: #111 !important;
+    border-radius: 12px !important;
+    box-shadow: 0 2px 8px #0001 !important;
+    padding: 24px !important;
+    margin-bottom: 24px !important;
+  }
+  .print-title {
+    color: #1b1f23 !important;
+    font-size: 2rem !important;
+    font-weight: bold !important;
+    margin-bottom: 8px !important;
+  }
+  .print-section-title {
+    color: #238636 !important;
+    font-size: 1.2rem !important;
+    font-weight: 600 !important;
+    margin-bottom: 6px !important;
+  }
+  .print-label {
+    color: #0969da !important;
+    font-weight: 500 !important;
+  }
+  .print-value {
+    color: #111 !important;
+    font-weight: 400 !important;
+  }
+  .print-hide, nav, button, .no-print {
+    display: none !important;
+  }
+  .print-show {
+    display: block !important;
+  }
+  .print-grid {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 32px !important;
+  }
+  .print-col {
+    flex: 1 1 0 !important;
+    min-width: 0 !important;
+  }
+}
