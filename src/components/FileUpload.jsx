@@ -176,7 +176,13 @@ function FileUpload({ onUploadSuccess, onResetResults }) {
         onUploadSuccess(safeData)
       }
     } catch (error) {
-      setSubmitError('Something went wrong. Please try again.')
+      const backendMessage =
+        error?.response?.data?.message ||
+        error?.response?.data?.detail ||
+        error?.message ||
+        'Something went wrong. Please try again.'
+
+      setSubmitError(backendMessage)
       setIsSuccess(false)
     } finally {
       setIsLoading(false)
